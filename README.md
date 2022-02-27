@@ -7,4 +7,4 @@ then type "pip install -r requirements.txt"
 
 then add the wanted usernames into "usernames.txt"
 
-then run the checker program
+then run checker.py
